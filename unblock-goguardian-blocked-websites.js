@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Unblock GoGuardian Blocked websites
-// @namespace    http://tampermonkey.net/
+// @namespace    https://raw.githubusercontent.com/Nimityx/userscripts/main/unblock-goguardian-blocked-websites.js
 // @version      1
 // @description  You have to download Iframe-allow(https://chrome.google.com/webstore/detail/iframe-allow/gifgpciglhhpmeefjdmlpboipkibhbjg) first to access most websites. Works for websites that use X-Frame-Options: allow or X-Frame-Options: deny.
 // @author       Nimityx
