@@ -14,4 +14,4 @@ A group of userscripts written by NImityx
 
 #### Step 2: Install UserScript
 ##### Unblock GoGuardian Blocked websites
-* [Install](https://raw.githubusercontent.com/Nimityx/userscripts/main/unblock-goguardian-blocked-websites.js) *from github.com*
+* [Install](https://raw.githubusercontent.com/Nimityx/userscripts/main/unblock-goguardian-blocked-websites.user.js) *from github.com*
