@@ -1,5 +1,5 @@
 # userscripts
-A group of userscripts written by NImityx
+Userscripts written by Nimityx
 
 ## Instruction
 
